@@ -31,13 +31,7 @@
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 
----
 
-## Dashboard Preview
-
-![Dashboard Preview](dashboard.png)
-
----
 
 ## Overview
 
@@ -45,13 +39,7 @@ This project analyzes the Sample Superstore dataset (US retail orders, 2016–20
 
 Built as a single-page interactive Power BI report with cross-filtering — clicking any region, segment, or category slices every other visual on the page.
 
----
 
-## Dashboard
-
-![Sample Superstore Profit Report Dashboard](images/dashboard.png)
-
----
 
 ## Key Metrics
 
